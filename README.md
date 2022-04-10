@@ -1,4 +1,4 @@
-# opensea-collection-sales-with-traits
+# opensea-collection-sale-with-trait
 Python script to retrieve nft event trasactions from OpenSea API on specific collection then retrieve specific traits.
 
 Command execution example:
